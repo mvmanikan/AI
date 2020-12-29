@@ -1,1 +1,1 @@
-Augmentation : A technique to avoid Overfitting
+Augmentation : A technique to avoid overfitting
